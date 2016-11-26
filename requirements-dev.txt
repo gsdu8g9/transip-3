@@ -1,0 +1,11 @@
+-e .[test]
+
+# Tox
+tox
+
+# Linters
+isort
+flake8
+
+# Twine
+twine
